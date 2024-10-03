@@ -6,7 +6,7 @@
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "0.9.5",
-    "@sentry/browser": "5.10.2"
+    "@sentry/browser": "8.33.0"
   },
   "devDependencies": {},
   "scripts": {
